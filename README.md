@@ -1,10 +1,4 @@
-Master Branch of Misty Ocean Battleship
+# Misty Ocean: Battleship
+This is repository of game client.
 
-Starting version
-
--------------
-TODO LIST
-
-2020/12/4
-功能实现 攻击
-<!-- 功能实现 移动 -->
+Game server -> [MistyOceanBattleship Server](https://github.com/AmosChenZixuan/MistyOceanBattleship)
